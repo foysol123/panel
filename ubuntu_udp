@@ -38,10 +38,10 @@ echo '{
   "up_mbps": 100,
   "down_mbps": 100,
   "disable_udp": false,
-  "obfs": "rakib",
+  "obfs": "foysol",
   "auth": {
     "mode": "passwords",
-    "config": ["rakibhasan", "firenetdev"]
+    "config": ["foysolplus", "firenetdev"]
   }
 }
 ' >> /etc/hysteria/config.json
